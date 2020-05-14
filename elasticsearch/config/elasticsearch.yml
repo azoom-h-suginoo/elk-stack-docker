@@ -10,7 +10,7 @@ network.host: 0.0.0.0
 #
 xpack.license.self_generated.type: trial
 # xpack.license.self_generated.type: basic
-xpack.security.enabled: true
+xpack.security.enabled: false
 # xpack.security.enabled: false
 # xpack.security.http.ssl.enabled: false
-xpack.monitoring.collection.enabled: true
+xpack.monitoring.collection.enabled: false
